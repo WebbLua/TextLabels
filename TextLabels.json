@@ -2,23 +2,28 @@
     "Revolution": {
         "cody": {
             "color": "0xFFB30000",
-            "text": "Основатель скрипта"
+            "text": "Основатель скрипта",
+            "button": true
         },
         "Cody_Webb": {
             "color": "0xFFB30000",
-            "text": "Основатель скрипта"
+            "text": "Основатель скрипта",
+            "button": true
         },
         "James_Webb": {
             "color": "0xFFB30000",
-            "text": "Основатель скрипта"
+            "text": "Основатель скрипта",
+            "button": true
         },
         "Sebastian_Melgaard": {
             "color": "0xFFB30000",
-            "text": "Основатель скрипта"
+            "text": "Основатель скрипта",
+            "button": true
         },
         "vodka": {
             "color": "0xFFB30000",
-            "text": "Основатель скрипта"
+            "text": "Основатель скрипта",
+            "button": true
         },
         "bier": {
             "color": "0xFFFFFF00",
