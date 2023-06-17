@@ -13,7 +13,7 @@
         "James_Webb": {
             "color": "0xFFB30000",
             "text": "Основатель скрипта",
-            "button": true
+            "button": false
         },
         "Sebastian_Melgaard": {
             "color": "0xFFB30000",
