@@ -27,15 +27,23 @@
         },
         "bier": {
             "color": "0xFFFFFF00",
-            "text": "Пухляш"
+            "text": "Пухляш",
+            "button": false
+        },
+        "Das_Bier": {
+            "color": "0xFFFFFF00",
+            "text": "Пухляш",
+            "button": false
         },
         "Vladanus": {
             "color": "0xFFFFFF00",
-            "text": "Пухляш"
+            "text": "Пухляш",
+            "button": false
         },
         "pivo": {
             "color": "0xFFFFFF00",
-            "text": "Лучший таксист"
+            "text": "Лучший таксист",
+            "button": false
         }
     }
 }
