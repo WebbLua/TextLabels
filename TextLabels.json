@@ -1,1 +1,36 @@
-
+{
+    "Revolution": {
+        "cody": {
+            "color": "0xFFB30000",
+            "text": "Основатель скрипта"
+        },
+        "Cody_Webb": {
+            "color": "0xFFB30000",
+            "text": "Основатель скрипта"
+        },
+        "James_Webb": {
+            "color": "0xFFB30000",
+            "text": "Основатель скрипта"
+        },
+        "Sebastian_Melgaard": {
+            "color": "0xFFB30000",
+            "text": "Основатель скрипта"
+        },
+        "vodka": {
+            "color": "0xFFB30000",
+            "text": "Основатель скрипта"
+        },
+        "bier": {
+            "color": "0xFFFFFF00",
+            "text": "Пухляш"
+        },
+        "Vladanus": {
+            "color": "0xFFFFFF00",
+            "text": "Пухляш"
+        },
+        "pivo": {
+            "color": "0xFFFFFF00",
+            "text": "Лучший таксист"
+        }
+    }
+}
