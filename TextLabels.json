@@ -1,4 +1,41 @@
 {
+    "Under": {
+        "bomj": {
+            "color": "0xFFB30000",
+            "text": "Основатель скрипта",
+            "button": true
+        },
+        "Bomj": {
+            "color": "0xFFB30000",
+            "text": "Основатель скрипта",
+            "button": true
+        },
+        "Cody_Webb": {
+            "color": "0xFFB30000",
+            "text": "Основатель скрипта",
+            "button": true
+        },
+        "bier": {
+            "color": "0xFFFFFF00",
+            "text": "Пухляш",
+            "button": false
+        },
+        "Das_Bier": {
+            "color": "0xFFFFFF00",
+            "text": "Пухляш",
+            "button": false
+        },
+        "Vladanus": {
+            "color": "0xFFFFFF00",
+            "text": "Пухляш",
+            "button": false
+        },
+        "pivo": {
+            "color": "0xFFFFFF00",
+            "text": "Лучший таксист",
+            "button": false
+        }
+    },
     "Revo": {
         "cody": {
             "color": "0xFFB30000",
