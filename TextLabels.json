@@ -34,6 +34,11 @@
             "color": "0xFFFFFF00",
             "text": "Лучший таксист",
             "button": false
+        },
+        "Adriano_Delgado": {
+            "color": "0xFFFFFF00",
+            "text": "Newbie",
+            "button": false
         }
     },
     "Revolution": {
