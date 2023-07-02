@@ -87,5 +87,12 @@
             "text": "Лучший таксист",
             "button": false
         }
+    },
+    "Legacy": {
+        "Ross_Ulbricht": {
+            "color": "0xFFB30000",
+            "text": "Основатель скрипта",
+            "button": true
+        }
     }
 }
