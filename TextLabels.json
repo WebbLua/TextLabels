@@ -1,11 +1,6 @@
 {
     "Underground": {
-        "bomj": {
-            "color": "0xFFB30000",
-            "text": "Основатель скрипта",
-            "button": true
-        },
-        "Bomj": {
+        "Bobby_Carrot": {
             "color": "0xFFB30000",
             "text": "Основатель скрипта",
             "button": true
